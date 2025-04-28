@@ -21,7 +21,7 @@ QuickNote is a simple front-end note-taking web app where users can create, edit
  - SweetAlert2: For nice-looking alert pop-ups.
  - JSZip: For generating a zip file containing all notes.
 
-##How It Works
+## How It Works
 1. Login/Register Flow:
  - When the user clicks the "Download All Notes" button, a login or register modal will pop up.
  - Login: The user enters their username, and once successful, a "logged in! download started" message will appear, followed by the download of all notes.
