@@ -23,9 +23,9 @@ QuickNote is a simple front-end note-taking web app where users can create, edit
 
 ## How It Works
 1. Login/Register Flow:
-  - When the user clicks the "Download All Notes" button, a login or register modal will pop up.
- - Login: The user enters their username, and once successful, a "logged in! download started" message will appear, followed by the download of all notes.
- - Register: The user enters their email and username, and after successful registration, a "registered! welcome [user]" message will appear.
+  - When the user clicks the "Download All Notes" button, a login or register modal will pop up.
+  - Login: The user enters their username, and once successful, a "logged in! download started" message will appear, followed by the download of all notes.
+  - Register: The user enters their email and username, and after successful registration, a "registered! welcome [user]" message will appear.
 
 2. Notes Functionality:
  - Users can add notes with titles and descriptions.
