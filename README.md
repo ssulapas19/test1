@@ -9,8 +9,8 @@ QuickNote is a simple front-end note-taking web app where users can create, edit
 - Download Notes: Download all notes as a zip file containing individual text files for each note.
 - Real-Time Search: Users can search through their notes in real time as they type, filtering out notes based on the entered search term.
 - Login/Register:
- -- Login: Users can log in with just a username.
- -- Register: Users can register by providing their username and email.
+  1.1 Login: Users can log in with just a username.
+  Register: Users can register by providing their username and email.
  -- After logging in or registering, users can start the download immediately.
 
 
