@@ -23,28 +23,28 @@ QuickNote is a simple front-end note-taking web app where users can create, edit
 
 ## How It Works
 1. Login/Register Flow:
- - When the user clicks the "Download All Notes" button, a login or register modal will pop up.
- - Login: The user enters their username, and once successful, a "logged in! download started" message will appear, followed by the download of all notes.
- - Register: The user enters their email and username, and after successful registration, a "registered! welcome [user]" message will appear.
+  - When the user clicks the "Download All Notes" button, a login or register modal will pop up.
+  - Login: The user enters their username, and once successful, a "logged in! download started" message will appear, followed by the download of all notes.
+  - Register: The user enters their email and username, and after successful registration, a "registered! welcome [user]" message will appear.
 
 2. Notes Functionality:
- - Users can add notes with titles and descriptions.
- - Notes can be updated or deleted.
- - Notes are stored in localStorage, so they persist across sessions.
+  - Users can add notes with titles and descriptions.
+  - Notes can be updated or deleted.
+  - Notes are stored in localStorage, so they persist across sessions.
 
 3. Real-Time Search:
- - Users can search their notes using a search bar at the top of the page.
- - As the user types, the notes are filtered instantly based on the title or description, allowing for a smooth and responsive search experience.
+  - Users can search their notes using a search bar at the top of the page.
+  - As the user types, the notes are filtered instantly based on the title or description, allowing for a smooth and responsive search experience.
 
 4. Download Notes:
-- All notes can be downloaded in a zip file. Each note is saved as a text file with the title, date, and description.
+  - All notes can be downloaded in a zip file. Each note is saved as a text file with the title, date, and description.
 
 ## Setup
 To run the project locally:
 
 1. Clone the repository:
-git clone https://github.com/your-username/quicknote.git
-cd quicknote
+ git clone https://github.com/your-username/quicknote.git
+ cd quicknote
 
 2. Open the index.html file in your web browser:
 open index.html
