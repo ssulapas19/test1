@@ -42,14 +42,14 @@ QuickNote is a simple front-end note-taking web app where users can create, edit
 ## Setup
 To run the project locally:
 
-1. Clone the repository:
- git clone https://github.com/your-username/quicknote.git
- cd quicknote
+ 1. Clone the repository:
+<br/> git clone https://github.com/your-username/quicknote.git
+<br/>cd quicknote
 
-2. Open the index.html file in your web browser:
+3. Open the index.html file in your web browser:
 open index.html
 
-3. Start using the app! You can add notes, edit them, delete them, search for specific notes, and download them as a zip file.
+4. Start using the app! You can add notes, edit them, delete them, search for specific notes, and download them as a zip file.
 
 ## Contributing
 If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
