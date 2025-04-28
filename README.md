@@ -11,7 +11,7 @@ QuickNote is a simple front-end note-taking web app where users can create, edit
 - Login/Register:
   - Login: Users can log in with just a username.
   - Register: Users can register by providing their username and email.
- -- After logging in or registering, users can start the download immediately.
+  - After logging in or registering, users can start the download immediately.
 
 
 ## Technologies Used
