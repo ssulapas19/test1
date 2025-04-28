@@ -1,7 +1,8 @@
-#QuickNote!
+# QuickNote!
+
 QuickNote is a simple front-end note-taking web app where users can create, edit, delete, and search notes. It also allows users to download all their notes in a zip file. The app includes a login and registration feature that uses local storage to save user data.
 
-##Features
+## Features
 - Create Notes: Add new notes with a title and description.
 - Edit Notes: Update existing notes with a new title or description.
 - Delete Notes: Permanently delete notes from the app.
@@ -13,7 +14,7 @@ QuickNote is a simple front-end note-taking web app where users can create, edit
  - After logging in or registering, users can start the download immediately.
 
 
-##Technologies Used
+## Technologies Used
  - HTML: Structure and layout of the web pages.
  - CSS: Styling of the app to make it responsive and user-friendly.
  - JavaScript: Functional logic for adding, editing, deleting, searching, and downloading notes.
@@ -38,7 +39,7 @@ QuickNote is a simple front-end note-taking web app where users can create, edit
 4. Download Notes:
 - All notes can be downloaded in a zip file. Each note is saved as a text file with the title, date, and description.
 
-##Setup
+## Setup
 To run the project locally:
 
 1. Clone the repository:
@@ -50,8 +51,8 @@ open index.html
 
 3. Start using the app! You can add notes, edit them, delete them, search for specific notes, and download them as a zip file.
 
-##Contributing
+## Contributing
 If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
 
-##License
+## License
 This project is open-source and available under the [MIT License](#license).
